@@ -10,35 +10,31 @@ last_name: Devata
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Master's Student
+role: Computer Science PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: International Institute of Information Technology, Hyderabad (IIIT-H)
-    url: https://www.iiit.ac.in/
+  - name: University of Illinois at Urbana-Champaign (UIUC)
+    url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include designing efficient SW/HW for datacenters; and using Machine Learning to solve problems in Computational Chemistry.
+bio: My research interests are in designing efficient SW/HW for datacenters.
 
 # Interests to show in About widget
 interests:
   - Hardware-Software Codesign
   - Datacenter Efficiency
-  - AI for Natural Sciences
-  - Drug Design
+  - Systems for VR/AR/XR
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science
-      institution: 
-      year: 2024 - 
-    - course: Master of Science in Computational Natural Sciences
+      institution: University of Illinois at Urbana-Champaign (UIUC)
+      year: 2024 -
+    - course: Bachelor of Technology and Master of Science in Computer Science
       institution: International Institute of Information Technology, Hyderabad (IIIT-H)
-      year: 2023 - 2024
-    - course: Bachelor of Technology in Computer Science
-      institution: International Institute of Information Technology, Hyderabad (IIIT-H)
-      year: 2019 - 2023
+      year: 2019 - 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -114,9 +110,9 @@ social:
 highlight_name: true
 ---
 
-I am a final year dual degree student at IIIT Hyderabad. I am interested in developing hardware for datacenters that are robust to software changes for emerging software paradigms.
+I am an incoming CS PhD student at UIUC. I am interested in developing hardware and software for datacenters that are robust to changes for emerging software paradigms.
 
-I have also worked on using Machine Learning to solve problems in Computational Chemistry.
+Previously, I have worked on using Machine Learning to solve problems in Computational Chemistry.
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
