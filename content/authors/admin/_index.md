@@ -112,7 +112,7 @@ highlight_name: true
 
 I am an incoming CS PhD student at UIUC. I am interested in developing hardware and software for datacenters that are robust to changes for emerging software paradigms.
 
-Previously, I have worked on using Machine Learning to solve problems in Computational Chemistry.
+Previously, I worked on using Machine Learning to solve problems in Computational Chemistry.
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
