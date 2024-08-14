@@ -22,8 +22,8 @@ bio: My research interests are in designing efficient SW/HW for datacenters.
 
 # Interests to show in About widget
 interests:
-  - Hardware-Software Codesign
   - Datacenter Efficiency
+  - Hardware-Software Codesign
   - Systems for VR/AR/XR
 
 # Education to show in About widget
@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Illinois at Urbana-Champaign (UIUC)
-      year: 2024 -
+      year: 2024 - Present
     - course: Bachelor of Technology and Master of Science in Computer Science
       institution: International Institute of Information Technology, Hyderabad (IIIT-H)
       year: 2019 - 2024
@@ -110,13 +110,14 @@ social:
 highlight_name: true
 ---
 
-I am an incoming CS PhD student at UIUC. I am interested in developing hardware and software for datacenters that are robust to changes for emerging software paradigms.
+I am a CS PhD student at UIUC, and am interested in developing hardware and software for datacenters that are robust to changes for emerging software paradigms.
 
-Before my PhD, I worked with Prof. [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) and Dr. [Gilles Pokam](https://sites.google.com/site/gillespokam/home) to improve datacenter efficiency by characterizing datacenter tax operations.
+Extended Reality (XR - encompassing AR/VR/MR) is one such paradigm that is transforming how we interact with computing. Current XR devices have a long way to go for their widespread adoption and sustained full-day usage. When considering offloading XR tasks to a datacenter, these tasks demand low latency and have strict performance standards to provide a high-quality user experience. I work with Prof. [Sarita Adve](https://sadve.cs.illinois.edu/) and [her group](https://immerse.illinois.edu/) to develop the hardware architecture and/or software systems for the cloud to facilitate the offloading of XR workloads. 
 
-Previously, I also worked on using Machine Learning to solve problems in Computational Chemistry.
+Before my PhD, I worked with Prof. [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) and Dr. [Gilles Pokam](https://sites.google.com/site/gillespokam/home) to improve datacenter efficiency by characterizing datacenter tax operations. This work allowed us to recognize common low-level software primitives across datacenter tax operations, and also helped identify combined acceleration opportunities.
+
+Previously, I also worked on using Machine Learning to solve problems in Computational Chemistry at IIIT-H and University of Waterloo.
 
 I used [this slidedeck](https://docs.google.com/presentation/d/1MytBcFC16K9toq-xN7fqbCBQkYqGV5OOrfKih8Sce3U/edit?usp=sharing) for my PhD interviews. It contains a brief summary of my research and education till the time I made those slides.
 
-<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
