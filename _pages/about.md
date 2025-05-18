@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Current research topic - leveraging spatial partitioning in GPUs to serve ML inference pipelines in datacenters.  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sriram_hands_folded.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computer Science PhD Student</p>
+    <a href='https://illinois.edu/'>University of Illinois at Urbana-Champaign (UIUC)</a>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +22,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a CS PhD student at UIUC, and am interested in developing hardware and software for datacenters that are robust to changes for emerging software paradigms.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Extended Reality (XR - encompassing AR/VR/MR) is one such paradigm that is transforming how we interact with computing. Current XR devices have a long way to go for their widespread adoption and sustained full-day usage. When considering offloading XR tasks to a datacenter, these tasks demand low latency and have strict performance standards to provide a high-quality user experience. I work with Prof. [Sarita Adve](https://sadve.cs.illinois.edu/) to develop the hardware architecture and/or software systems for the cloud to facilitate the offloading of XR workloads. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before my PhD, I worked with Prof. [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) and Dr. [Gilles Pokam](https://sites.google.com/site/gillespokam/home) to improve datacenter efficiency by characterizing datacenter tax operations. This work allowed us to recognize common low-level software primitives across datacenter tax operations, and also helped identify combined acceleration opportunities.
+
+Previously, I also worked on using Machine Learning to solve problems in Computational Chemistry at IIIT-H and University of Waterloo.
+
+<!-- I used [this slidedeck](https://docs.google.com/presentation/d/1MytBcFC16K9toq-xN7fqbCBQkYqGV5OOrfKih8Sce3U/edit?usp=sharing) for my PhD interviews. It contains a brief summary of my research and education till the time I made those slides. -->
+
