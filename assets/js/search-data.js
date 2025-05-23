@@ -117,7 +117,7 @@ ninja.data = [{
           title: 'I have been awarded a Student Travel Grant to attend MLSys’25 May 12-15...',
           description: "",
           section: "News",},{id: "news-i-won-the-w-j-poppelbaum-memorial-award-for-academic-merit-and-creativity-in-computer-architecture-research",
-          title: 'I won the W.J. Poppelbaum Memorial Award for academic merit and creativity in...',
+          title: 'I won the W. J. Poppelbaum Memorial Award for academic merit and creativity...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
