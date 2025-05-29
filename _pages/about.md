@@ -7,7 +7,7 @@ subtitle: Current research topic - leveraging spatial partitioning in GPUs to se
 
 profile:
   align: right
-  image: sriram_hands_folded.jpg
+  image: sriram_rocky.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Computer Science PhD Student</p>
