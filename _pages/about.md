@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Current research topic - leveraging spatial partitioning in GPUs to serve ML inference pipelines in datacenters.  
+subtitle: Current research topic - leveraging spatial partitioning in GPUs to serve ML inference pipelines in datacenters. <a href="/assets/pdf/sriram_cv_june_2025.pdf"> CV (June 2025).</a>
 
 profile:
   align: right
