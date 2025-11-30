@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-<!-- [Blog on IIIT's website.](https://blogs.iiit.ac.in/monthly_news/devata-sriram/) -->
+[Blog on IIIT's website.](https://blogs.iiit.ac.in/monthly_news/devata-sriram/)
 
 Title: Rethinking Structure Prediction in Computational Chemistry: The Role of Machine Learning in Replacing Database Searches
 Abstract:
