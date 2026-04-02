@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed my qualifying exams. I am now a PhD candidate.
+I passed my qualifying exam in the [Compilers, Architecture, Parallel Programming and Systems](https://siebelschool.illinois.edu/academics/graduate/phd-program/qualifying-exam/acpcs) research area. I am now a PhD candidate.
