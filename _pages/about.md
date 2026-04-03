@@ -11,7 +11,7 @@ profile:
   image: sriram_rocky_jacket.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Computer Science PhD Candidate</p>
+    <p>Computer Science PhD</p>
     <a href='https://illinois.edu/'>University of Illinois at Urbana-Champaign (UIUC)</a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
