@@ -8,7 +8,8 @@ subtitle: Current research topic - efficiently serving composite ML inference (c
 
 profile:
   align: right
-  image: sriram_hocking_hills.jpg
+  image: profile/sriram_hocking_hills.jpg # fallback shown if JavaScript is disabled
+  image_folder: profile # folder under assets/img/; a random picture from it is shown on each page load
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Computer Science PhD</p>
