@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will spend the summer as a PhD intern with Qualcomm's [Standards and Industry Organisations (QSIO)](https://www.qualcomm.com/research/standards) team to develop better protocols for communication between models/tasks in Agentic AI workloads and Compound Inference Systems.
+I will spend the summer as a PhD intern with Qualcomm's [Standards and Industry Organisations (QSIO)](https://www.qualcomm.com/research/standards) team to develop better protocols for communication between XR wearables and the cloud or mobile/companion devices.

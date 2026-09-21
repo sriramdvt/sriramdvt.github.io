@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: Current research topic - leveraging spatial partitioning in GPUs to serve ML inference pipelines in datacenters.
+subtitle: Current research topic - efficiently serving composite ML inference (chained ML models used in domains such as XR and robotics) on datacenter GPUs.
 #<a href="/assets/pdf/sriram_cv_june_2025.pdf"> CV (June 2025).</a> -->
 
 profile:
@@ -30,9 +30,9 @@ latest_posts:
 
 I am a CS PhD candidate at UIUC, and am interested in developing hardware and software for datacenters that are robust to changes for emerging software paradigms.
 
-Extended Reality (XR - encompassing AR/VR/MR) is one such paradigm that is transforming how we interact with computing. Current XR devices have a long way to go for their widespread adoption and sustained full-day usage. When considering offloading XR tasks to a datacenter, these tasks demand low latency and have strict performance standards to provide a high-quality user experience. I work with Prof. [Sarita Adve](https://sadve.cs.illinois.edu/) to develop the hardware architecture and/or software systems for the cloud to facilitate the offloading of XR workloads. 
+Extended Reality (XR - encompassing AR/VR/MR) is one such paradigm that is transforming how we interact with computing. I work with Prof. [Sarita Adve](https://sadve.cs.illinois.edu/) to develop the hardware architecture and/or software systems for the cloud to facilitate the offloading of XR workloads from the edge devices while satisfying SLOs and QoE. 
 
-Before my PhD, I worked with Prof. [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) and Dr. [Gilles Pokam](https://sites.google.com/site/gillespokam/home) to improve datacenter efficiency by characterizing datacenter tax operations. This work allowed us to recognize common low-level software primitives across datacenter tax operations, and also helped identify combined acceleration opportunities.
+Before my PhD, I worked with Prof. [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) and Dr. [Gilles Pokam](https://sites.google.com/site/gillespokam/home) to improve datacenter efficiency to recognizing common low-level software primitives across datacenter tax operations, and helped identify combined acceleration opportunities.
 
 Previously, I also worked on using Machine Learning to solve problems in Computational Chemistry at IIIT-H and University of Waterloo.
 
